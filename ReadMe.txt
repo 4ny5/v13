@@ -10,4 +10,4 @@ and then go to 0Auth2 and select bot and application.commands and then copy url 
 to the server you want it to be in.
 
 
-Made by Georgxe
+#Made by Georgxe
