@@ -1,4 +1,4 @@
-# Music Bot
+# 🎵🎵 Music Bot
 
 
 This was created because i was sick of other music bots having pay subscriptions for more volume and different filters 
