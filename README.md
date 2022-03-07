@@ -2,7 +2,7 @@
 
 
 This was created because i was sick of other music bots having pay subscriptions for more volume and different filters 
-while this bot has those and theres filters between nightcore and bassboost and max volume being 250 so you can mkae 
+while this bot has those and theres filters between nightcore and bassboost and max volume being 250 so you can make 
 it as loud as you want without paying monthly subscriptions 😂
 
 
